@@ -1,0 +1,13 @@
+beta gamma delta
+
+given a set of words:
+the following nvim actions leaves...
+
+dw , x , u , u , ctrl-r
+
+dw = deletes word and whitespace ahead of it (beta gamma delta)
+x = deletes current cursor line (eta gamma delta)
+u and u = goes back to original (alpha beta gamma delta)
+ctrl-r = redoes last action (beta gamma delta)
+
+answer = beta gamma delta
